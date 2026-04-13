@@ -32,31 +32,6 @@ Each question was tested in a **fresh chat** to prevent context contamination.
 
 ---
 
-## Repo Structure
-
-```
-DSAI4201_Group6/
-│
-├── README.md                          ← You are here
-│
-├── Farah_Section4.1_4.2/             ← Farah's work
-│   ├── questions.docx                   ← 10 test questions
-│   ├── Farah_Report_Sections4.1_4.2.docx
-│   ├── Farah_Results_Sections4.1_4.2.xlsx
-│   └── responses/
-│       ├──responses.docx
-│
-└── Hind_Section4.3_4.4/              ← Hind's work
-    ├── questions.docx                  ← 10 test questions
-    ├── Hind_Report_Sections4.3_4.4.docx
-    ├── Hind_Results_Sections4.3_4.4.xlsx
-    ├── screenshots/
-    │   ├── chatgpt_loading_dot_rhythm.png
-    │   ├── chatgpt_instruments_calculator.png
-    │   └── chatgpt_stuck_lastdigit.png
-    └── responses/
-        ├── responses.docx
-```
 
 ---
 
